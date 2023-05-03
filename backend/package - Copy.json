@@ -6,8 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon Server.js",
-    "server": "nodemom Server.js",
-    "pn":"ram"
+    "server": "nodemom Server.js"
   },
   "author": "",
   "license": "ISC",
