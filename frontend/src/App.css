@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
+
+
+.logo{
+    width: 145px;
+    height: 115px;
+    margin-top: -22px;
+    border-bottom-left-radius: 56px;
+    border-bottom-right-radius: 56px;
+    clip-path: polygon(20% 0%, 80% 0%, 100% 100%, 0% 100%);
+    border: 2px solid polygon  white;
+}
+.mb-3 {
+    max-width: 1150px;
+    margin-top: 85px;
+    display: flex;
+    margin-left: 75px;
+}
+.img-fluid{
+    height: 235px;
+    width: 290px;
+}
+.g{
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    margin: 110px;
+}
+/* .row { */
+    /* display: -ms-flexbox; */
+    /* display: flex; */
+    /* -ms-flex-wrap: wrap; */
+    /* flex-wrap: wrap; */
+    /* margin-right: 50px; */
+    /* margin-left: 50px; */
+    /* margin-bottom: 30px; */
+/* } */
+
+    
+.c{
+    font-weight: 800;
+} 
+.about{
+    margin: 138px;
+    color: black;
+}
+
+.footer-logo img{
+    border-bottom-left-radius: 56px;
+   border-bottom-right-radius: 56px;
+   width: 220px;
+   height: 190px;
+   clip-path: polygon(20% 0%, 80% 0%, 100% 100%, 0% 100%);
+   border: 2px solid polygon white;
+}
+.th{
+    height: 278px;
+    width: 240px;
+}
+.fo{
+    height: 215px;
+}
+.proimg{
+    max-width: 215px;
+    margin-left: 30px;
+    max-height: 218px;
+    margin-top: 21px;
+}
+
+  /* profile css */
+    .form-control:focus {
+        box-shadow: none;
+        border-color: rgb(255 0 94);
+      }
+      .profile-button {
+        background: rgb(255 0 94);
+        box-shadow: none;
+        border: none;
+      }
+      .profile-button:hover {
+        background: whitesmoke;
+        color: rgb(255 0 94);
+      }
+      .profile-button:focus {
+        background: rgb(255 0 94);
+        box-shadow: none;
+      }
+      .profile-button:active {
+        background: rgb(255 0 94);
+        box-shadow: none;
+      }
+      .back:hover {
+        color: rgb(255 0 94);
+        cursor: pointer;
+      }
+      .labels {
+        font-size: 11px;
+      }
+      .add-experience:hover {
+        background: whitesmoke;
+        color: rgb(255 0 94);
+        cursor: pointer;
+        border: solid 1px rgb(255 0 94);
+      }
+      .m{
+        width: "350px"; 
+        height: "313px";
+        clipPath:"polygon(0% 15%, 11% 10%, 15% 0%, 85% 0%, 90% 11%, 100% 15%, 100% 85%, 88% 88%, 85% 100%, 15% 100%, 10% 88%, 0% 85%)"
+      }
+      .m:hover{
+        transform: translateY(-5px);
+        box-shadow: 0px 10px 20px 2px rgba(240, 8, 85, 0.966);
+      }
+      /* /Admin/ */
+.dash-left {
+    margin-top: 30px;
+}
+
+.dash-left ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.dash-left ul li {
+    background-color: #f1f1f1;
+    margin-bottom: 5px;
+}
+
+.dash-left ul li a {
+    color: #333;
+    padding: 5px 15px;
+    display: block;
+}
+
+.dash-left ul li:hover a {
+    background-color: #029477;
+    text-decoration: none;
+    color: #fff;
+}
+
+.dash-left ul li a.active {
+    background-color: #029477;
+    color: #fff;
+}
+
+.dash-header {
+    display: flex;
+    justify-content: space-between;
+}
